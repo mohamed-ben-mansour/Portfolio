@@ -13,7 +13,7 @@ const projects = [
   {
     title: 'STM32-based AI VScode extension',
     description: 'EmbedAI is a project that facilitates the development and testing of STM32 code. My solution is a smart platform designed to assist developers in writing, analyzing, and improving STM32 code. It provides features such as code generation, debugging assistance, and performance optimization suggestions, all powered by advanced AI algorithms.',
-    image: './pic.png',
+    image: '/pic.png',
     tags: ['React', 'FastAPI', 'Clang','Bidirectional LSTM','open source LLMs','TypeScript'],
     githubUrl: 'https://github.com/mohamed-ben-mansour/EmbedAI',
     liveUrl: 'https://www.linkedin.com/posts/mohamed-ben-mansour-345881318_embedai-aifordevelopers-embeddedsystems-activity-7336848609973280769-C88t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCTMKUBah0Hbp-9-RMEM4Hn3fpxYgnw3H8',
@@ -21,7 +21,7 @@ const projects = [
   {
     title: 'AI Anesthesiology Assistant',
     description: 'An AI-powered conversational assistant that automates pre-anesthetic consultations by interacting with patients in Tunisian dialect—via voice or text—to capture, validate, and extract key data from medical documents, ultimately delivering structured clinical alerts and physician-ready summaries to streamline medical workflows and ensure healthcare compliance.',
-    image: './anesthesia.png',
+    image: '/anesthesia.png',
     tags: ['Python', 'PyTorch', 'React', 'FastAPI','FAISS','RAG','Transformers','LLMs','openCV'],
     githubUrl: 'https://github.com/mohamed-ben-mansour/anesthesia-guard',
     liveUrl: 'https://www.linkedin.com/posts/mohamed-ben-mansour-345881318_platformmanagement-techleadership-artificialintelligence-activity-7427096043529400320-GSM8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCTMKUBah0Hbp-9-RMEM4Hn3fpxYgnw3H8',

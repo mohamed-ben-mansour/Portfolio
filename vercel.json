@@ -1,0 +1,22 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/resume.pdf",
+      "destination": "/resume.pdf"
+    },
+    {
+      "source": "/anesthesia.png",
+      "destination": "/anesthesia.png"
+    },
+    {
+      "source": "/pic.png",
+      "destination": "/pic.png"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
