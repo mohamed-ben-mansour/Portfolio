@@ -54,12 +54,13 @@ export const Contact = () => {
       <div className="px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
           <div>
+            <div className="[&_p]:text-white [&_h3]:text-white">
             <SectionHeading
               title="Get In Touch"
               subtitle="Let's work together on your next project"
-            />
+            /></div>
             <p className="text-slate-400 text-lg mb-10 max-w-md">
-              I'm currently available for freelance work and full-time positions. 
+              I'm currently available for freelance work and part-time positions. 
               If you have a project that needs AI implementations, let's talk.
             </p>
 
