@@ -7,7 +7,7 @@ const projects = [
     description: 'Multi-agent system that autonomously detects and investigates fraudulent activities across various domains, leveraging advanced AI techniques for real-time analysis and decision-making. The system utilizes autonomous agents to monitor transactions, identify suspicious patterns, and conduct in-depth investigations, providing actionable insights to mitigate risks and enhance security.',
     image: 'https://images.unsplash.com/photo-1556742044-3c52d6e88c62?auto=format&fit=crop&q=80&w=1000',
     tags: ['Python','LangChain', 'TypeScript', 'FastAPI', 'LLMs','Agentic Systems'],
-    githubUrl: 'https://github.https://github.com/mohamed-ben-mansour/agentic-fraud-detection/tree/main',
+    githubUrl: 'https://github.com/mohamed-ben-mansour/agentic-fraud-detection',
     // liveUrl: 'https://example.com',
   },
   {
