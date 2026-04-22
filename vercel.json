@@ -14,6 +14,10 @@
       "source": "/pic.png",
       "destination": "/pic.png"
     },
+        {
+      "source": "/d86cf804-467e-4b52-9865-d3288f69e007.jfif",
+      "destination": "/d86cf804-467e-4b52-9865-d3288f69e007.jfif"
+    },
     {
       "source": "/(.*)",
       "destination": "/index.html"
